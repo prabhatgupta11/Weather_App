@@ -4,7 +4,7 @@ This app help you to find the tempreture,humidity,wind speed of any city.This ap
 
 
 
- Netlify Link:-https://app.netlify.com/sites/glowing-cat-98fc7b/deploys/65103e134dc5145f9477f4bd
+ Netlify Link:-(https://glowing-cat-98fc7b.netlify.app/)
 
 
 
